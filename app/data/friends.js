@@ -25,7 +25,7 @@ var friendArray = [
     },
     {
         "name": "gohan",
-        "photo": "https://comicvine1.cbsistatic.com/uploads/original/11137/111372607/6749946-46108866_2138130396245355_1197692474502530083_n.jpg",
+        "photo": "https://techanimate.com/wp-content/uploads/2017/11/Why-does-Gohan-Have-so-much-Hidden-Power.jpg",
         "scores": [
         "1",
         "1",
