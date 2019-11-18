@@ -315,9 +315,11 @@
             console.log("user score", userData.totalScore)
             console.log("best match index", closestFriendIndex);
             console.log("this is the best match: ",bestMatch);
-        });
-        $.post("/api/friends", userData, function(data) {
+
+            $.post("/api/friends", userData, function(data) {
             console.log("post successful")
+        });
+        
         });
     } else {
         // console.log("incomplete form")
