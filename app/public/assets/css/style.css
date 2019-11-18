@@ -1,5 +1,5 @@
 .banner {
-    background-image: url(./assets/images/friend.jpeg);
+    background-image: url("https://raw.githubusercontent.com/tmnguyen8/FriendFinder/master/app/public/assets/images/friend.jpeg");
     background-repeat: none;
     background-size: cover;
     color: rgb(192,198,214);
