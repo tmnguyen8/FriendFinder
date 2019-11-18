@@ -31,12 +31,11 @@ npm install --save express
 ## How does this work?
 1. The User has the functionality to enter their information on a short survey and determine the best match (previous users who had filled out the same survey) based on their score. The user will also be able to see the json data of all the users' information via API link.
 
+  ![](./app/assets/images/survey1.png)
 
 2. The user will also be able to see the json data of all the users' information via API link.
 
-  ![](./assets/gif/manager1.gif)
-
-
+  ![](./app/assets/images/api.png)
 
 ## Contact
 
