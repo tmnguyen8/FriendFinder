@@ -1,0 +1,13 @@
+.banner {
+    background-image: url(./assets/images/friend.jpeg);
+    background-repeat: none;
+    background-size: cover;
+    color: rgb(192,198,214);
+    color: rgb(255, 81, 0);
+}
+
+.result-img {
+    border-radius: 8px;
+    width: 150px;
+}
+
